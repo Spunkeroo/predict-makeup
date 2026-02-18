@@ -1,0 +1,27 @@
+# predict.makeup — Makeup & Beauty Prediction Markets
+
+> Real-time prediction markets for makeup & beauty. Bet on outcomes, see live odds, and win. Free to play with shared pools powered by Firebase.
+
+
+predict.makeup is a prediction market platform focused on makeup & beauty. Users can bet YES or NO on curated markets with real-time shared pools. Features live odds, countdown timers, trending markets, and social sharing. Part of the Predict Network — 18 niche prediction market sites.
+
+
+## Pages
+
+- [Homepage — Makeup & Beauty prediction markets with live odds](https://predict.makeup)
+- [Markets — Active makeup & beauty prediction markets](https://predict.makeup#markets)
+
+
+## Keywords
+
+prediction market, makeup & beauty, betting, odds, forecast, predict.makeup
+
+
+## Related Sites
+
+- [Spunk.Bet — Free Crypto Casino](https://spunk.bet)
+- [Stimulant Wiki — Nootropic Encyclopedia](https://stimulant.wiki)
+- [Stimulant Doctor — ADHD & Focus Guide](https://stimulant.doctor)
+- [Stimulant Shop — Buy Nootropics](https://stimulant.shop)
+- [@SpunkArt13 on X](https://x.com/SpunkArt13)
+- [SpunkArt.com](https://spunkart.com)
